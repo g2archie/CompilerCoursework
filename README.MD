@@ -1,5 +1,8 @@
 # Lexer and Parser
+This project is to design and implement a toy parser for a specific language.
 
+
+# Testing
 Please put your Lexer.lex and Parser.cup files into the src subdirectory.
 
 To build, issue `make`.
